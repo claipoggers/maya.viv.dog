@@ -1,0 +1,33 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "maya's blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Personal website with blog posts and projects"
+dateFormat = "2 January 2006"
+logo = "image3.jpg"
+secondaryLogo = "image3.jpg"
+
+  [params.author]
+  name = "Blue Blowfish"
+  image = "img/avatar.png"
+  headline = "This is my very simple profile website with my links"
+  bio = "A little bit about you"
+
+    [[params.author.links]]
+    email = "maya@viv.dog"
+
+    [[params.author.links]]
+    github = "github.com/claipoggers"
+
+["params.author"]
+name = "Maya P"
+email = "maya@viv.dog"
+headline = "Super cool cs student that does so many cool things"
+image = "author-image.jpg"
+bio = "I'm Maya! I'm a 20 y/o computer science student who likes learning new concepts in the fields of computer science and mathematics. I'm based in Pennsylvania, United States. I'm currently learning Unity and C#."
+imageQuality = "100"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poggers on maya&#39;s blog</title>
+    <link>//localhost:1313/tags/poggers/</link>
+    <description>Recent content in Poggers on maya&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>maya@viv.dog (Maya P)</managingEditor>
+    <webMaster>maya@viv.dog (Maya P)</webMaster>
+    <copyright>© 2026 Maya P</copyright>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/poggers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to My Blog!!</title>
+      <link>//localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <author>maya@viv.dog (Maya P)</author>
+      <guid>//localhost:1313/posts/welcome-to-my-blog/</guid>
+      <description>This is the first post to ever be on the greatest website to ever exist no cap ong frfr icl</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/welcome-to-my-blog/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
