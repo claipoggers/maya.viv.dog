@@ -1,7 +1,7 @@
 theme = "blowfish"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-baseURL = "maya.viv.dog"
+baseURL = "https://maya.viv.dog"
 enableEmoji = true
 
 [pagination]
